@@ -12,6 +12,7 @@
         <module>user</module>
         <module>coupon</module>
         <module>couponNew</module>
+        <module>gateway</module>
     </modules>
 
     <properties>
